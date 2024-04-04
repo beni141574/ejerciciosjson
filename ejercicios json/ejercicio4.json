@@ -1,0 +1,30 @@
+{
+    "lista-de-conceionarios":[{
+        
+    "Concesionario-Mercedes":[{
+        "Contacto":{
+            "nombre":"Pablo",
+            "direccion":"Calle Octavio cuartero",
+            "localidad":"Villarrobledo"
+        },
+        "lista-de-coches-en-venta":{
+            "Mercedes-C63":["Tursimo","Gasolina"],
+            "Mercedes-s63":["Tursimo","Gasolina"],
+            "Mercedes-GLE63":["Tursimo","Gasolina"]
+        }
+    }],
+   
+    "Concesionario-BMW":[{
+    "Contacto":{
+        "nombre":"Andres",
+        "direccion":"Calle escudero sancho 5",
+        "localidad":"Villarrobledo"
+    },
+    "lista-de-coches-en-venta":{
+        "BMW-M4":["Tursimo","Gasolina"],
+        "BMW-M5":["Tursimo","Gasolina"],
+        "BMW-M8":["Tursimo","Gasolina"]
+    }
+    }]
+  }]
+}

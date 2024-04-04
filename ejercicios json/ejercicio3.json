@@ -1,0 +1,30 @@
+{
+    "nunmero-pedido":"2024-04-04",
+    "hora":"14:00:00",
+    "usuario":{
+        "nombre-usuario":"benja10",
+        "nombre-completo":"Benjamin padure",
+        "direccion-envio":{
+            "calle":"norte",
+            "poblacion":"Villarrobledo",
+            "cp":"12789"
+        }       
+    },
+    "listas-articulos":[{
+        "codigo":"A34B",
+        "descripcion":"Barra de pan",
+        "precio":0.75
+    }, 
+    {
+        "codigo":"B34C",
+        "descripcion":"Acaite",
+        "precio":10
+    }, 
+    {
+        "codigo":"A34Z",
+        "descripcion":"Bolsa de tomates",
+        "precio":2.50
+    }     
+        ]
+
+}

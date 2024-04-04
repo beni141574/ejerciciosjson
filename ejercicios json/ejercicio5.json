@@ -1,0 +1,62 @@
+{
+"factura-alquiler":{
+"datos-cliente":{
+    "nombre":"Benjamin",
+    "primer-apellido":"Padure",
+    "segundo-apellido":"",
+    "telefono":642746237,
+    "identificador":true
+},
+"datos-ticket":{
+    "forma-pago":"efectivo",
+    "importe-total":"15€"
+    
+        },
+"alquiler-pelicula":{
+    "alquiler-pelicula-1":{
+        "fecha-devolucion":"2024-04-04",
+        "pelicula":{
+            "titulo":"Ted",
+            "genero":"Comedia",
+            "duracion":"102 minutos",
+            "actores":["ted","Dicaprio"],
+            "id":1234,
+            "valoracion":"8,25"},
+            
+    "alquiler-pelicula-2":{
+        "fecha-devolucion":"2024-04-09",
+        "pelicula":{
+            "titulo":"Tyler Rake",
+            "genero":"Accion",
+            "duracion":"98 minutos",
+            "actores":["Chris hemsworth"],
+            "id":1235,
+            "valoracion":"8,50"}
+}
+},
+
+"factura-compra":{
+    "datos-cliente":{
+        "nombre":"Andres",
+        "primer-apellido":"Valencia",
+        "segundo-apellido":"",
+        "telefono":642746237,
+        "identificador":true
+    },
+    "datos-ticket":{
+        "forma-pago":"Tarjeta",
+        "importe-total":"16€"       
+            },
+    "pelicula":{
+        "titulo":"Titanic",
+        "Fecha-de-saldida":"1998-06-21",
+        "extras":false
+
+    }
+
+}
+
+
+}
+}
+}

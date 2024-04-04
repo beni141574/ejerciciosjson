@@ -1,0 +1,16 @@
+{
+    "remite":{
+        "nombre":"alfredo",
+        "email":"alf@albium.com"
+    },
+    "destinatario":{
+        "nombre":"Bil clinton",
+        "email":"president@whitehouse.way"
+    },
+    "asunto":"Hola bill",
+    "texto":{
+        "parrafo":"hola que tal?",
+        "parrafo2":"hola que tal"
+    }
+
+}
